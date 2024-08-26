@@ -1,0 +1,15 @@
+h1{
+    width: max-content;
+    margin: 0 auto;
+}
+.box{
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+
+    img{
+        width: 100%;
+    }
+}
